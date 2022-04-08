@@ -4,14 +4,16 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Education"
+    url: /Education/    
     
-  - title: "Research Interest"
-    url: /Research Interest/
+  - title: "Research"
+    url: /Research/
      
         
-  - title: "Blog Posts"
+  - title: "Notes"
     url: /year-archive/
     
-    
+
   - title: "Guide"
     url: /markdown/
