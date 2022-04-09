@@ -4,9 +4,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Education"
-    url: /portfolio/
-    
   - title: "Research"
     url: /publications/
         
@@ -14,11 +11,15 @@ main:
     url: /year-archive/
 
 
-  # - title: "Talks"
-  # url: /talks/ 
+  #  - title: "talks"
+  #   url: /talks/ 
 
   # - title: "Teaching"
   #  url: /teaching/    
   
   # - title: "Guide"
   # url: /markdown/
+  
+  # - title: "Portfolio"
+  #   url: /portfolio/
+    
