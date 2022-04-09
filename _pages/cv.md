@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+
+For more detials, click the pdf  below
+
+[RongWei's resume](http://academicpages.github.io/files/cv.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+
 Education
 ======
 * B.S. in Statistics University of Science and technology of China, 2019
