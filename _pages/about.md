@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to Rong Wei's homepage!
 
-This is Rong Wei,a junior student from the University of Science and Technology of China
+This is Rong Wei (my Chinese name is written as "魏嵘"), a junior student from the University of Science and Technology of China
 
-Currently, my major is statistics
+Currently, my major is statistics, belonging to the management department of USTC
 
 My research intersets: causality analysis, statistic learning, data privacy...
 
