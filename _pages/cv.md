@@ -12,7 +12,7 @@ redirect_from:
 
 For more detials, click the pdf  below
 
-[RongWei's resume](http://academicpages.github.io/files/cv.pdf)
+[RongWei's resume](http://miaomiaoYao.github.io/files/cv.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
