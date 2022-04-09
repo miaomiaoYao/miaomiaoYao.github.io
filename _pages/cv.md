@@ -56,10 +56,10 @@ Skills
 
 Honors
 =====
-*2021.12 BaoGang Education Scholarship
-*2021.12 Chinese Mathematics Competitions, AnHui, the Second Prize
-*2020.12 Talent Student Gold Scholarship in USTC
-*2019.12 Talent Student Bronze Scholarship in USTC
+* 2021.12 BaoGang Education Scholarship
+* 2021.12 Chinese Mathematics Competitions, AnHui, the Second Prize
+* 2020.12 Talent Student Gold Scholarship in USTC
+* 2019.12 Talent Student Bronze Scholarship in USTC
 
 
 <!--Publications
